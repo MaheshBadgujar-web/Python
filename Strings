@@ -1,0 +1,14 @@
+### Shirt = grey
+
+Shirt = "Blue"
+#or
+Shirt = 'Blue'
+
+Store ="Mahesh's Pizza Shop"
+print (Store)
+
+Store1 = 'Mahesh\'s Pizza Shop, the "best" there is'
+print (Store1)
+
+movie = 'HERCULES'
+print (movie)
