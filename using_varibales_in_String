@@ -1,0 +1,21 @@
+day = 19
+month = 'December'
+temp = -23
+
+print ("Today is January 20th and it's 25 degrees outside")
+
+
+print (f"Today is {month} {day} and it's {temp} degrees outside")
+
+Day_name = 'Thursday'
+
+print (f"Today is {Day_name} {day} {month} and it's {temp} degrees outside")
+
+
+Tarik = 24
+mahina = 'August'
+tapman = -25
+
+print('aaj 24 tarik ahe')
+
+print(f"aaj {Tarik} {mahina} ahe ani tapman {tapman} degree ahe")
