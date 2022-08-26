@@ -1,0 +1,16 @@
+day = 21   #interger
+weight = 190.4 #Float
+month = "October" # String
+
+light_is_on = True
+
+if light_is_on:
+  print("light is on")
+print('hello')
+
+
+  #e.g.
+computer_is_on = False
+
+if computer_is_on:
+    print("computer is on")
