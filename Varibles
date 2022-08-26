@@ -1,0 +1,10 @@
+wallet = 1000
+print (wallet)
+wallet = 500
+print (wallet)
+
+day =  30
+print (day)
+
+abc = 2000
+print (abc)

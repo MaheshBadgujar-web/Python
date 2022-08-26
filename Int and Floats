@@ -1,0 +1,16 @@
+day = 20
+temp = -25
+weight = 71.50
+
+print (3+6)
+print (day+5)
+print (weight * 2)
+print (weight / 2)
+print (weight - 2)
+
+
+dateofbirth = 21
+print (dateofbirth)
+
+age = 31
+bitcoin = 0.0004
